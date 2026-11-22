@@ -23,7 +23,7 @@ Há mais de 10 anos na PUC Minas, hoje uso código para automatizar a gestão do
 ## 🚀 Projetos em destaque
 
 ### Automação do Canvas LMS · Python
-Conjunto de scripts que usa a API REST do Canvas para preparar, aplicar e validar as provas presenciais de **90 turmas por semestre**: mapeamento de cursos Blueprint, auditoria de avaliações, aplicação de datas e filtros de IP em lote (com simulação antes de gravar), relatórios em Excel e um monitor em tempo real para o dia da prova. Uma única configuração por semestre alimenta todos os scripts.
+Conjunto de scripts que usa a API REST do Canvas para preparar, aplicar e validar as provas presenciais de **mais de 100 turmas por semestre**: mapeamento de cursos Blueprint, auditoria de avaliações, aplicação de datas e filtros de IP em lote (com simulação antes de gravar), relatórios em Excel e um monitor em tempo real para o dia da prova. Uma única configuração por semestre alimenta todos os scripts.
 > Código privado (ambiente institucional). Detalhes no [portfólio](https://kesleysanzio.github.io).
 
 ### [Consulta de Prova Presencial](https://github.com/KesleySanzio/KesleySanzio-consulta-prova-presencial) · HTML, JS, Python

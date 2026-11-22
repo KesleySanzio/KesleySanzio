@@ -2,7 +2,7 @@
 
 **Gestor do Ambiente Virtual de Aprendizagem (LMS Manager) na PUC Minas Virtual** · Contagem/MG
 
-Há mais de 10 anos na PUC Minas, hoje uso código para automatizar a gestão do Canvas LMS: scripts que preparam e conferem provas de dezenas de turmas, páginas para alunos e painéis de gestão para a equipe.
+Há mais de 10 anos na PUC Minas, hoje uso código para automatizar a gestão do Canvas LMS: scripts que preparam e conferem provas de dezenas de turmas, páginas para as equipes de aplicação de provas e painéis de gestão para a equipe.
 
 - 🎓 Pós em Desenvolvimento Web Full Stack, Design Instrucional e Gestão de Pessoas
 - 🎯 Interesses: tecnologia educacional, automação de processos e dados
